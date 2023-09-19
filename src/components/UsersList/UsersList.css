@@ -1,0 +1,7 @@
+.UsersList{
+    border: 1px solid red;
+    margin: auto;
+    width: 10vw;
+    flex: .35;
+    height: 100vh;
+}
